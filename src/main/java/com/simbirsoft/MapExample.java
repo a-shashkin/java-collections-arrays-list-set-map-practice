@@ -69,7 +69,5 @@ public class MapExample {
 
         System.out.println("This is the merged map:");
         System.out.println(mergedMap.values());
-
-
     }
 }
