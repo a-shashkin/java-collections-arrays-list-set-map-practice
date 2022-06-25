@@ -32,11 +32,6 @@ public class ArraysExample {
         Arrays.sort(secondArrayOfTenRandomInts, 2, 7);
         System.out.println("This is the array with only elements from 3rd to 8th sorted:");
         printIntArray(secondArrayOfTenRandomInts);
-
-
-
-
-
     }
 
     public static void generateRandomIntArray(int[] intArray) {
@@ -50,6 +45,4 @@ public class ArraysExample {
         System.out.println(Arrays.toString(intArray));
         System.out.println();
     }
-
-
 }
